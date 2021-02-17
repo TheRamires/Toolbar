@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/position1"
+        android:icon="@drawable/abc_vector_test"
+        app:showAsAction="always"
+        android:title="Cut" />
+    <item
+        android:id="@+id/position2"
+        android:icon="@drawable/abc_vector_test"
+        app:showAsAction="always"
+        android:title="Copy" />
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/abc_vector_test"
+        app:showAsAction="always"
+        android:title="Paste" />
+</menu>
